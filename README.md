@@ -12,6 +12,14 @@ Simple 1D TB model to obtain the dispersion curve and z component of spin-spin c
 
   v1.0 (04/30/20) - First implementation
   v1.1 (08/20/20 - Comments, cleaning code, and python script for plots 
+  
+  Future intended changes:
+  - implementation of modern fortran (>=2008);
+  - hamiltonian matrix determination from a neighbor's lattice;
+  - python script for plots;
+  - python interface to link both the fortran file and the plots automatically;
+
+# File information
 
  File 'disp.dat' prints the eigenvalues ordered by increasing order
  and the original order from the LAPACK function DSYEV;
