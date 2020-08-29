@@ -1,4 +1,4 @@
-! ---------------------- Variational Monte Carlo 1D --------------------
+! ---------------------- 1D Tight Binding Model --------------------
 !
 ! Author: João Augusto Sobral da Silva / Github: @joaosds
 !
