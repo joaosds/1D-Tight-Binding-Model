@@ -1,7 +1,7 @@
 # 1D-Tight-Binding-Model (Under Construction)
 Simple 1D TB model to obtain the dispersion curve and z component of spin-spin correlation.
 
- ---------------------- Variational Monte Carlo 1D --------------------
+ ---------------------- 1D Tight Binding Model --------------------
 
  Author: João Augusto Sobral da Silva / Github: @joaosds
 
