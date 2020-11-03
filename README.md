@@ -1,5 +1,6 @@
 # 1D-Tight-Binding-Model (Under Construction)
-Simple 1D TB model to obtain the dispersion curve and z component of spin-spin correlation.
+
+Simple code to obtain the dispersion curve and z component of spin-spin correlation for a 1D Tight Binding model.
 
  ---------------------- 1D Tight Binding Model --------------------
 
@@ -23,7 +24,6 @@ Simple 1D TB model to obtain the dispersion curve and z component of spin-spin c
 
  File 'disp.dat' prints the eigenvalues ordered by increasing order
  and the original order from the LAPACK function DSYEV;
-
 
  File 'parameters.dat' informs the initial parameters N,t, BC: number of
  sites, value of hopping parameter t and lattice boundary condition. 
